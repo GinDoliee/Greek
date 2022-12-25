@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-12-25T04:48:03.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="NqnzG4dXkhpxLEjHOcEF" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-25T05:09:06.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="tRf71F4Z0D728kg1PhI8" type="github">
   <diagram id="iCPAEJlE4XdvNPsYvM_N" name="페이지-1">
-    <mxGraphModel dx="3889" dy="2428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6017" dy="4021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BBxYeIenQKLHBEVqydsv-35" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="180" y="60" width="560" height="120" as="geometry" />
+          <mxGeometry x="160" y="-150" width="560" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BBxYeIenQKLHBEVqydsv-19" value="&lt;h1&gt;우라노스&lt;/h1&gt;&lt;div&gt;하늘의 신&lt;/div&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-35">
           <mxGeometry x="370" width="190" height="120" as="geometry" />
@@ -18,18 +18,6 @@
             <mxPoint x="350" y="510" as="sourcePoint" />
             <mxPoint x="400" y="460" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="BBxYeIenQKLHBEVqydsv-40" value="" style="group;strokeColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="60" y="270" width="680" height="770" as="geometry" />
-        </mxCell>
-        <mxCell id="BBxYeIenQKLHBEVqydsv-10" value="&lt;h1&gt;이아이페토스&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;container=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-40">
-          <mxGeometry x="-40" y="-30" width="190" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="BBxYeIenQKLHBEVqydsv-11" value="&lt;h1&gt;크로노스&lt;/h1&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;container=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-40">
-          <mxGeometry x="150" y="-30" width="190" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="BBxYeIenQKLHBEVqydsv-12" value="&lt;h1&gt;테이아&lt;/h1&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;container=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-40">
-          <mxGeometry x="490" y="-30" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BBxYeIenQKLHBEVqydsv-44" value="&lt;h1&gt;아프로디테&lt;/h1&gt;&lt;div&gt;미의 여신&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1710" y="460" width="190" height="120" as="geometry" />
@@ -64,6 +52,14 @@
         </mxCell>
         <mxCell id="BBxYeIenQKLHBEVqydsv-8" value="&lt;h1&gt;휘페리온&lt;/h1&gt;&lt;p&gt;높은 곳을 달리는 자&lt;/p&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="-360" y="240" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="BBxYeIenQKLHBEVqydsv-9" target="BBxYeIenQKLHBEVqydsv-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-75" y="440" />
+              <mxPoint x="-985" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BBxYeIenQKLHBEVqydsv-9" value="&lt;h1&gt;크리오스&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="-170" y="240" width="190" height="120" as="geometry" />
@@ -103,7 +99,153 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BBxYeIenQKLHBEVqydsv-66" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="440" y="140" width="70" height="100" as="geometry" />
+          <mxGeometry x="420" y="-70" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-68" value="&lt;h1&gt;에우뤼비아&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="680" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-10" value="&lt;h1&gt;이아이페토스&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-11" value="&lt;h1&gt;크로노스&lt;/h1&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="240" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-12" value="&lt;h1&gt;테이아&lt;/h1&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="240" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-76" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="BBxYeIenQKLHBEVqydsv-74" target="BBxYeIenQKLHBEVqydsv-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-63" y="2160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-75" value="&lt;h1&gt;팔라스&lt;/h1&gt;&lt;div&gt;지혜의여신&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-3" y="1980" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-77" value="&lt;h1&gt;젤로스&lt;/h1&gt;&lt;div&gt;질투의 여신&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-243" y="2280" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-78" value="&lt;h1&gt;니케&lt;/h1&gt;&lt;div&gt;승리의 여신&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-53" y="2280" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-80" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BBxYeIenQKLHBEVqydsv-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-605" y="730" as="sourcePoint" />
+            <mxPoint x="-230" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-81" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BBxYeIenQKLHBEVqydsv-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-53" y="2160" as="sourcePoint" />
+            <mxPoint x="-203" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-82" value="&lt;h1&gt;아스테리아&lt;/h1&gt;&lt;div&gt;별이 빛나는 하늘&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="1750" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-84" value="&lt;h1&gt;레토&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="1750" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-85" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1080" y="1980" width="950" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-70" value="&lt;h1&gt;강의신 3천형제&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-85">
+          <mxGeometry width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-71" value="&lt;h1&gt;강 요청 3천자매&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-85">
+          <mxGeometry x="190" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-72" value="&lt;h1&gt;메티스&lt;/h1&gt;&lt;div&gt;지혜의여신&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-85">
+          <mxGeometry x="380" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-73" value="&lt;h1&gt;튀케&lt;/h1&gt;&lt;div&gt;행운의 여신&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-85">
+          <mxGeometry x="570" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-74" value="&lt;h1&gt;스튁스&lt;/h1&gt;&lt;div&gt;저승앞을 흐르는 강의 여신&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-85">
+          <mxGeometry x="760" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-86" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BBxYeIenQKLHBEVqydsv-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="630" as="sourcePoint" />
+            <mxPoint x="-170" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-87" value="&lt;h1&gt;헬리오스&lt;/h1&gt;&lt;div&gt;태양의신&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1530" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-88" value="&lt;h1&gt;셀레나&lt;/h1&gt;&lt;div&gt;달의여신&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1530" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-89" value="&lt;h1&gt;에오스&lt;/h1&gt;&lt;div&gt;새벽의신&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1530" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-90" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;" edge="1" parent="1" target="BBxYeIenQKLHBEVqydsv-88">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="105" y="520" as="sourcePoint" />
+            <mxPoint x="-450" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-91" value="&lt;h1&gt;아스트라이토스&lt;/h1&gt;&lt;div&gt;별의신&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="970" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-92" value="&lt;h1&gt;팔라스&lt;/h1&gt;&lt;div&gt;지혜의신&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="970" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-93" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BBxYeIenQKLHBEVqydsv-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-840" y="440" as="sourcePoint" />
+            <mxPoint x="-980" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-97" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="230" y="1290" width="570" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-94" value="&lt;h1&gt;프로메테우스&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-97">
+          <mxGeometry width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-95" value="&lt;h1&gt;에피메테우스&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-97">
+          <mxGeometry x="190" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-96" value="&lt;h1&gt;아틀라스&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-97">
+          <mxGeometry x="380" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-98" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BBxYeIenQKLHBEVqydsv-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="460" as="sourcePoint" />
+            <mxPoint x="-370" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-105" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="720" y="910" width="1140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-99" value="&lt;h1&gt;하데스&lt;/h1&gt;&lt;div&gt;저승의신&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-105">
+          <mxGeometry width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-100" value="&lt;h1&gt;포세이돈&lt;/h1&gt;&lt;div&gt;바다의신&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-105">
+          <mxGeometry x="190" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-101" value="&lt;h1&gt;헤스티아&lt;/h1&gt;&lt;div&gt;부엌의신&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-105">
+          <mxGeometry x="380" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-102" value="&lt;h1&gt;데메테르&lt;/h1&gt;&lt;div&gt;곡식의 여신&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-105">
+          <mxGeometry x="570" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-103" value="&lt;h1&gt;헤라&lt;/h1&gt;&lt;div&gt;결혼의신&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-105">
+          <mxGeometry x="760" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-104" value="&lt;h1&gt;제우스&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-105">
+          <mxGeometry x="950" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-106" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BBxYeIenQKLHBEVqydsv-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="410" as="sourcePoint" />
+            <mxPoint x="770" y="1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="800" />
+              <mxPoint x="1290" y="800" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
