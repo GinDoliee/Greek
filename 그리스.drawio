@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-25T05:09:06.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="tRf71F4Z0D728kg1PhI8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-25T05:13:54.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="irdcdveF6dMVcEmG6ZUr" type="github">
   <diagram id="iCPAEJlE4XdvNPsYvM_N" name="페이지-1">
     <mxGraphModel dx="6017" dy="4021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,6 +144,13 @@
         <mxCell id="BBxYeIenQKLHBEVqydsv-82" value="&lt;h1&gt;아스테리아&lt;/h1&gt;&lt;div&gt;별이 빛나는 하늘&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="-490" y="1750" width="190" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-109" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="BBxYeIenQKLHBEVqydsv-84" target="BBxYeIenQKLHBEVqydsv-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="1810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BBxYeIenQKLHBEVqydsv-84" value="&lt;h1&gt;레토&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="-300" y="1750" width="190" height="120" as="geometry" />
         </mxCell>
@@ -245,6 +252,21 @@
               <mxPoint x="580" y="800" />
               <mxPoint x="1290" y="800" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-112" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1420" y="1950" width="380" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-110" value="&lt;h1&gt;아폴론&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-112">
+          <mxGeometry width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-111" value="&lt;h1&gt;아르테미스&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="BBxYeIenQKLHBEVqydsv-112">
+          <mxGeometry x="190" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BBxYeIenQKLHBEVqydsv-113" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BBxYeIenQKLHBEVqydsv-111">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1610" y="1810" as="sourcePoint" />
+            <mxPoint x="520" y="1540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
